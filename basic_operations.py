@@ -1,9 +1,6 @@
 number1 = 10
 number2 = 5
 
-number1 = 10
-number2 = 5
-
 # Perform basic operations
 sum_result = number1 + number2
 difference = number1 - number2
