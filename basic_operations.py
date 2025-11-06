@@ -10,6 +10,6 @@ difference = number1 - number2
 product = number1 * number2
 
 # Print results
-print("Sum of", number1, "and", number2, "is", sum_result)
-print("Difference of", number1, "and", number2, "is", difference)
-print("Product of", number1, "and", number2, "is", product)
+print("Addition of", number1, "and", number2, "is", sum_result)
+print("Substraction of", number1, "and", number2, "is", difference)
+print("Multiplication of", number1, "and", number2, "is", product)
