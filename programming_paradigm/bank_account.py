@@ -18,4 +18,4 @@ class BankAccount:
 
     def display_balance(self):
         """Print the current balance."""
-        print(f"Current account balance: ₦{self.account_balance}")
+        print(f"Current account balance: ${self.account_balance}")
